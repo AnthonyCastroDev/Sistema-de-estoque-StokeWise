@@ -36,3 +36,13 @@ Durante o desenvolvimento foram utilizados conceitos como:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+## Funcionalidades do Sistema
+
+* Cadastrar produto
+* Editar produto
+* Excluir produto
+* Consultar estoque
+* Registrar entrada estoque
+* Registrar entrada saída
+* Consultar vendas
+
