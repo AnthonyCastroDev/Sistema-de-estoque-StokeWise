@@ -46,3 +46,5 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Registrar entrada saída
 * Consultar vendas
 
+* link do projeto no FIGMA: https://www.figma.com/make/hsuQvTuVSJ5GzBijBitv2z/Inventory-Management-System?p=f&t=TZ5jruM7Kh4FL676-0
+  
