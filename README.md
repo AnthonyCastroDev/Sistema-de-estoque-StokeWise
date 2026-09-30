@@ -50,6 +50,17 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Registrar entrada saída
 * Consultar vendas
 
+## Diagramas 
+
+### **Diagrama de Casos de Uso**
+<img src="docs/diagramas/Digrama-casos-de-uso.png" alt="Diagrama de Casos de Uso" width="700">
+
+## **Outros Diagramas**
+- [Diagrama de Sequencia - Login](docs/diagramas/Diagrama-de-Sequencia-login.md)
+- [Digrama de Estado - Produto]()
+- [Digrama de Classes]()
+
+
 ## Interface
 
 Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsuQvTuVSJ5GzBijBitv2z/Inventory-Management-System?code-node-id=0-6&p=f&t=08FpnYja6H0uPs44-0&fullscreen=1)
@@ -70,15 +81,6 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 |:----------------------------:|
 | <img src="docs/interface/area-de-saida-de-profuto.PNG" width="400"> |
 
-## Diagramas 
-
-### **Diagrama de Casos de Uso**
-<img src="" alt="Diagrama de Casos de Uso" width="700">
-
-## **Outros Diagramas**
-- [Diagrama de Sequencia - Login](docs/diagramas/Diagrama-de-Sequencia-login.md)
-- [Digrama de Estado - Produto]()
-- [Digrama de Classes]()
 
 
 
