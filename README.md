@@ -8,9 +8,10 @@ O objetivo do projeto é aplicar conceitos de desenvolvimento de software criand
 Durante o desenvolvimento foram utilizados conceitos como: 
 * Controle de versão com Git e Github
 * Diagramas UML
+* Prototipação da interface gráfica com Figma
 * Pesquisa de campo com as empresas
 * Sistema de Login/Cadastro
-* Modelo da Interface Gráfica com Figma
+
 
 ## Infraestrutura Técnica      
 
@@ -55,6 +56,8 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 
 ### **Telas do Sistema**
 
+*Clique em uma tela para ampliar.*
+
 | **Login** | **Registro** |
 |:---------:|:------------:|
 | <img src="docs/interface/pagina-de-login.PNG" width="400"> | <img src="docs/interface/area-de-registro.PNG" width="400"> |
@@ -66,3 +69,5 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 | **Baixa do Produto (Caixa)** |
 |:----------------------------:|
 | <img src="docs/interface/area-de-saida-de-profuto.PNG" width="400"> |
+
+
