@@ -85,7 +85,7 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 
 * Rafael Santiago
 * Marcio Roberto Jr.
-* 
+* Anderson Santana
 * Anthony Castro
 * Gustavo Pignata 
 
