@@ -1,3 +1,5 @@
+# StockWise
+
 O StockWise é um sistema de gerenciamento de estoque pensado para pequenas empresas que ainda controlam seus produtos em planilhas ou até no papel, e acabam perdendo tempo (ou dinheiro) com contagens erradas e falta de produto na hora de vender. A ideia é dar pro dono do negócio uma forma simples de saber exatamente o que tem no estoque, o que está acabando e o que precisa repor sem complicação.
 
 ## Objetivo do projeto
@@ -8,6 +10,7 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Diagramas UML
 * Pesquisa de campo com as empresas
 * Sistema de Login/Cadastro
+* Modelo da Interface Gráfica com Figma
 
 ## Infraestrutura Técnica      
 
@@ -46,5 +49,20 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Registrar entrada saída
 * Consultar vendas
 
-* link do projeto no FIGMA: https://www.figma.com/make/hsuQvTuVSJ5GzBijBitv2z/Inventory-Management-System?code-node-id=0-6&p=f&t=08FpnYja6H0uPs44-0&fullscreen=1
-  
+## Interface
+
+Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsuQvTuVSJ5GzBijBitv2z/Inventory-Management-System?code-node-id=0-6&p=f&t=08FpnYja6H0uPs44-0&fullscreen=1)
+
+### **Telas do Sistema**
+
+| **Login** | **Registro** |
+|:---------:|:------------:|
+| <img src="docs/interface/pagina-de-login.PNG" width="400"> | <img src="docs/interface/area-de-registro.PNG" width="400"> |
+
+| **Dashboard de Estoque** | **Cadastro de Produtos** |
+|:------------------------:|:------------------------:|
+| <img src="docs/interface/area-do-estoque.PNG" width="400"> | <img src="docs/interface/area-de-cadastro-de-produto.PNG" width="400"> |
+
+| **Baixa do Produto (Caixa)** |
+|:----------------------------:|
+| <img src="docs/interface/area-de-saida-de-profuto.PNG" width="400"> |
