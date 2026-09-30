@@ -50,7 +50,7 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Registrar entrada saída
 * Consultar vendas
 
-## Diagramas 
+## Diagramas UML 
 
 ### **Diagrama de Casos de Uso**
 <img src="docs/diagramas/Digrama-casos-de-uso.png" alt="Diagrama de Casos de Uso" width="700">
