@@ -84,7 +84,7 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 ## Colaboradores
 
 * Rafael Santiago
-* 
+* Marcio Roberto Jr.
 * 
 * Anthony Castro
 * Gustavo Pignata 
