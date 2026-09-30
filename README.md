@@ -70,4 +70,15 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 |:----------------------------:|
 | <img src="docs/interface/area-de-saida-de-profuto.PNG" width="400"> |
 
+## Diagramas 
+
+### **Diagrama de Casos de Uso**
+<img src="" alt="Diagrama de Casos de Uso" width="700">
+
+## **Outros Diagramas**
+- [Diagrama de Sequencia - Login](docs/diagramas/Diagrama-de-Sequencia-login.md)
+- [Digrama de Estado - Produto]()
+- [Digrama de Classes]()
+
+
 
