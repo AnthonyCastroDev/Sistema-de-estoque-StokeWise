@@ -59,6 +59,7 @@ Durante o desenvolvimento foram utilizados conceitos como:
 - [Diagrama de Sequencia - Login](docs/diagramas/Diagrama-de-Sequencia-login.md)
 - [Digrama de Estado - Produto]()
 - [Digrama de Classes]()
+- [Tabele Dados Clientes](docs/diagramas/tabela-cadastro-de-clientes.xlsx)
 
 
 ## Interface
