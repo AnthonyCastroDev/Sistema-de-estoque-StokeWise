@@ -81,6 +81,13 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/hsu
 |:----------------------------:|
 | <img src="docs/interface/area-de-saida-de-profuto.PNG" width="400"> |
 
+## Colaboradores
+
+* Rafael Santiago
+* 
+* 
+* Anthony Castro
+* Gustavo Pignata 
 
 
 
